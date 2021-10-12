@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OnePulseLayout</string>
+    <string name="blog_title_description">My adventures travelling around Iceland this past summer</string>
+    <string name="large_text_sample">Apparently we had reached a great height in the atmosphere, for the sky was dead and black, and the stars had ceased to twinkle. By the same illusion which lifts the horizon of the sea to the level the spectator on a hillside, the sable cloud beneath was dished out, and the car seemed to float in the middle of an immense dark sphere, whose upper half……</string>
+    <string name="iceland_adventure">Iceland Adventure</string>
+    <string name="driving_at_night_under_the_lights_of_the_aurora_borealis">Driving at night under the lights of the Aurora Borealis</string>
+    <string name="driving_at_night_under_the_lighs_of_the_aurora_borealis">Driving at night under the lighs of the aurora Borealis</string>
+    <string name="travels">Travels</string>
+    <string name="summer_adventures">Summer Adventures</string>
+    <string name="_12hr">12Hr</string>
+    <string name="my_adventures_travelling_around_iceland_this_summer">My adventures travelling around Iceland this summer</string>
+    <string name="iceland_adventures">Iceland adventure</string>
+</resources>
